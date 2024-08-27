@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Le Gourmet",
+    "subtitle": "Refined Belgian Cuisine",
+    "description": "A charming restaurant offering a unique gastronomic experience with local and seasonal ingredients.",
+    "location": {
+      "longitude": 4.351710,
+      "latitude": 50.850340
+    }
+  },
+  {
+    "id": 2,
+    "title": "Brasserie du Parc",
+    "subtitle": "Traditional Brasserie",
+    "description": "Located in the heart of Brussels, this brasserie offers typical Belgian dishes in a friendly atmosphere.",
+    "location": {
+      "longitude": 4.348780,
+      "latitude": 50.850446
+    }
+  },
+  {
+    "id": 3,
+    "title": "Chez Léon",
+    "subtitle": "Seafood Specialties",
+    "description": "Famous for its mussels and fries, this restaurant is a must for seafood lovers.",
+    "location": {
+      "longitude": 4.352220,
+      "latitude": 50.847570
+    }
+  }
+]
